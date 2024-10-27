@@ -14,7 +14,7 @@
             <TextBox Header="IDCliente" x:Name="IDCliente"/>
             <TextBox Header="DescCliente" x:Name="DescCliente"/>
             <DatePicker Header="Fecha de Alta" x:Name="FechaAlta"/>
-            <Button Content="Guardar"/>
+            <Button Content="Prueba Otra"/>
         </StackPanel>
     </Grid>
 </Page>
